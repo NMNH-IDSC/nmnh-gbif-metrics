@@ -1,0 +1,44 @@
+BASIS_OF_RECORD: other
+CATALOG_NUMBER: identifier
+CLASS_KEY: geography
+CONTINENT: geography
+COORDINATE_UNCERTAINTY_IN_METERS: data quality
+COUNTRY: geography
+DATASET_KEY: data provider
+DECIMAL_LATITUDE: geography
+DECIMAL_LONGITUDE: geography
+DEGREE_OF_ESTABLISHMENT: data quality
+DEPTH: geography
+DISTANCE_FROM_CENTROID_IN_METERS: geography
+ELEVATION: geography
+ESTABLISHMENT_MEANS: other
+EVENT_DATE: date
+FAMILY_KEY: taxonomy
+GADM_GID: geography
+GBIF_ID: identifier
+HAS_COORDINATE: geography
+HAS_GEOSPATIAL_ISSUE: data quality
+HOSTING_ORGANIZATION_KEY: data provider
+INSTITUTION_CODE: data provider
+ISSUE: data quality
+IUCN_RED_LIST_CATEGORY: other
+KINGDOM_KEY: taxonomy
+LICENSE: rights
+LIFE_STAGE: other
+LOCALITY: data provider
+MEDIA_TYPE: other
+MONTH: date
+OCCURRENCE_ID: identifier
+OCCURRENCE_STATUS: other
+ORDER_KEY: taxonomy
+PUBLISHING_COUNTRY: data provider
+PUBLISHING_ORG: data provider
+RECORDED_BY: other
+RECORD_NUMBER: identifier
+SCIENTIFIC_NAME: taxonomy
+SPECIES_KEY: taxonomy
+STATE_PROVINCE: geography
+TAXON_KEY: taxonomy
+TYPE_STATUS: type
+VERBATIM_SCIENTIFIC_NAME: taxonomy
+YEAR: date

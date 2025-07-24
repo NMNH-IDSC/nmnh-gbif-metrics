@@ -1,0 +1,11 @@
+name: xmu
+channels:
+- conda-forge
+- default
+dependencies:
+- python>=3.9
+- ipykernel
+- jupyterlab
+- pandas
+- requests
+- requests-cache
